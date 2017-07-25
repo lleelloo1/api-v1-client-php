@@ -1,5 +1,5 @@
 {
-    "name": "Madeinnordeste/Blockchain",
+    "name": "madeinnordeste/blockchain",
     "description": "A fork to Blockchain API client library",
     "keywords": ["bitcoin", "blockchain"],
     "homepage": "https://github.com/madeinnordeste/api-v1-client-php",
