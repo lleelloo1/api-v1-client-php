@@ -1,4 +1,4 @@
-Blockchain API library (PHP, v1)
+Fork to Blockchain API library (PHP, v1)
 ================================
 
 Fork to official PHP library for interacting with the blockchain.info API.
