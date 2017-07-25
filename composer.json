@@ -1,8 +1,8 @@
 {
-    "name": "Blockchain/Blockchain",
-    "description": "Blockchain API client library",
+    "name": "Madeinnordeste/Blockchain",
+    "description": "A fork to Blockchain API client library",
     "keywords": ["bitcoin", "blockchain"],
-    "homepage": "https://github.com/blockchain/api-v1-client-php",
+    "homepage": "https://github.com/madeinnordeste/api-v1-client-php",
     "license": "MIT",
     "autoload": {
         "psr-4": {
