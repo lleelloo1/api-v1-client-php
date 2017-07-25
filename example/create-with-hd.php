@@ -1,4 +1,5 @@
-<pre><?php
+<pre>
+<?php
 
 require_once(dirname(__DIR__) . '/vendor/autoload.php');
 
@@ -15,4 +16,5 @@ var_dump($wallet);
 
 print_r($Blockchain->log);
 
-?></pre>
+?>
+</pre>
